@@ -1,0 +1,28 @@
+song { 
+     display:block;   
+     border-bottom: solid 1px;
+     margin-bottom: 15px; 
+	 padding-bottom: 10px;
+     font-family: "impact", fantasy;
+} 
+ heading { 
+     color: navy; 
+     font-size : 40px;
+     font-family: "impact", fantasy;  
+} 
+ heading, artist, title, genre, year { 
+     display : block; 
+} 
+artist {
+	color:red;
+}
+title {
+	color:green;
+}
+genre{
+	color:purple;
+}
+year{
+	color:gold;
+}
+

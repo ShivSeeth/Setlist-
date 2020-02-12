@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="assignment4.css"?> 
+<songs> 
+    <heading> Setlist</heading> 
+    <song> 
+        <artist>Artist: Eminem </artist> 
+        <title>Title: Godzilla </title> 
+        <genre>Genre: Hip hop </genre> 
+        <year>Year Released: 2020 </year>  
+    </song> 
+    <song> 
+        <artist>Artist: Future </artist> 
+        <title>Title: Life is Good </title> 
+        <genre>Genre: Hip hop </genre> 
+        <year>Year Released: 2020 </year>  
+    </song> 
+     <song> 
+        <artist>Artist: Roddy Rich </artist> 
+        <title>Title: The Box </title> 
+        <genre>Genre: Hip hop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: Travis Scott </artist> 
+        <title>Title: HIGHEST IN THE ROOM </title> 
+        <genre>Genre: Hip hop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: The Weeknd </artist> 
+        <title>Title: Blinding Lights </title> 
+        <genre>Genre: Hip hop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: Post Malone </artist> 
+        <title>Title: Die For Me </title> 
+        <genre>Genre: Hip hop/Pop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: Lil Nas X </artist> 
+        <title>Title: Panini </title> 
+        <genre>Genre: Hip hop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: Drake </artist> 
+        <title>Title: Money In The Grave</title> 
+        <genre>Genre: Rap </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: The Weeknd </artist> 
+        <title>Title: Heartless </title> 
+        <genre>Genre: Pop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song>  <song> 
+        <artist>Artist: Tory Lanez </artist> 
+        <title>Title: Jerry Sprunger </title> 
+        <genre>Genre: Pop </genre> 
+        <year>Year Released: 2019 </year>  
+    </song> 
+</songs> 
